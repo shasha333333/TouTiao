@@ -1,0 +1,2 @@
+C:/Users/echo/DevEcoStudioProjects/UI/entry/build/default/cache/default/default@CompileArkTS/esmodule/debug/entry/src/main/ets/entryability/EntryAbility.js;com.example.ui/entry/ets/entryability/EntryAbility;esm;entry/src/main/ets/entryability/EntryAbility.ts;entry
+C:/Users/echo/DevEcoStudioProjects/UI/entry/build/default/cache/default/default@CompileArkTS/esmodule/debug/entry/src/main/ets/pages/Index2.js;com.example.ui/entry/ets/pages/Index2;esm;entry/src/main/ets/pages/Index2.ets;entry
